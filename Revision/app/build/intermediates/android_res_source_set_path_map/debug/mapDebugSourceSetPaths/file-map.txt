@@ -1,0 +1,7 @@
+com.example.revision.app-pngs-0 D:\Revision\app\build\generated\res\pngs\debug
+com.example.revision.app-updated_navigation_xml-1 D:\Revision\app\build\generated\updated_navigation_xml\debug
+com.example.revision.app-packageDebugResources-2 D:\Revision\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.revision.app-packageDebugResources-3 D:\Revision\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.revision.app-debug-4 D:\Revision\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.revision.app-debug-5 D:\Revision\app\src\debug\res
+com.example.revision.app-main-6 D:\Revision\app\src\main\res
